@@ -1,0 +1,35 @@
+/* Footer.css */
+.footer {
+    background-color: #f8f9fa;
+    /* Màu nền */
+    padding: 1rem 0;
+    /* Khoảng cách */
+    text-align: center;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+*/ #root {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.footer {
+    margin: auto;
+}
